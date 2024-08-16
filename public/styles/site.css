@@ -1,0 +1,62 @@
+html {
+    font-family: sans-serif;
+    background-color: white;
+    ;
+}
+
+h1,
+a {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+header {
+    color: white;
+    background-color: #885574;
+    padding: 1px 0 30px 0;
+}
+
+header a {
+    font-weight: bold;
+    color: white;
+}
+
+header #title {
+    color: white;
+    padding: 10px;
+}
+
+#menu {
+    display: inline;
+}
+
+#menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#menu li {
+    margin: 0;
+    padding: 10px;
+    display: inline-block;
+}
+
+footer {
+    padding: 25px 25px;
+    background-color: #bd7707;
+    color: white;
+}
+
+footer a {
+    font-weight: bold;
+    color: white;
+}
+
+div {
+    display: block;
+
+}
